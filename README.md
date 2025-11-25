@@ -102,6 +102,6 @@ Manual gate operation at unmanned railway crossings causes delays and accidents.
 ## Contact
 For questions, code requests, or collaboration:  
 **Email:** narasimhavamsibhupathi@gmail.com 
-(See project resume for additional contact & internship details). :contentReference[oaicite:18]{index=18}
+(See project resume for additional contact & internship details)
 
 ---
